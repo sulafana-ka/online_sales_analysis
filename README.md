@@ -9,17 +9,17 @@ This repository documents a data analysis project focused on understanding sales
 
 🛠️ Tools and Data
 
-Database Tool: MySQL
+ -Database Tool: MySQL
 
-Dataset Source: online_sales table (loaded from the original online_sales.csv data).
+ -Dataset Source: online_sales table (loaded from the original online_sales.csv data).
 
 Key Data Columns Used:
 
-order_date(Date): For time-series grouping.
+ - order_date(Date): For time-series grouping.
 
-total(Total Revenue): Used as the measure for calculating revenue.
+ - total(Total Revenue): Used as the measure for calculating revenue.
 
-order_id(Transaction ID): Used to count unique transactions (order volume).
+ - order_id(Transaction ID): Used to count unique transactions (order volume).
 
 📊 Methodology: SQL Analysis Queries
 
